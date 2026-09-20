@@ -1,9 +1,26 @@
 .container { 
-  
-  display: flex;   
+  display: flex;  
+  flex-direction: column;
 }
 .box{
   width: 150px;
   height: 150px; 
   border: 2px solid black;  
+}
+.top{
+  display: flex;
+  flex-direction: row;
+}
+#box1{
+  width: 25%;
+}
+#box2{
+    width: 75%;
+}
+.box{
+  display:flex;
+}
+#box3{
+ display: flex;
+ 
 }
