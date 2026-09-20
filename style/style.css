@@ -1,8 +1,6 @@
 .container{
     display: flex;
     justify-content: space-evenly;
-    align-items: space-evenly;
-    
 }
 
 .box{
