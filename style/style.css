@@ -1,6 +1,6 @@
 .box{
-    height: 10%;
-    width:10%;
+    height: 200px;
+    width:200px;
     background-color: blue
     font-size: 40pt;
 }
