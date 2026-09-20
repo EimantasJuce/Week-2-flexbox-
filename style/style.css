@@ -1,7 +1,4 @@
-.container { 
-  display: flex;  
-  flex-direction: column;
-}
+
 .box{
   width: 150px;
   height: 150px; 
@@ -13,13 +10,9 @@
 }
 #box1{
   width: 25%;
+  height: 75px;
 }
 #box2{
   width: 75%;
-}
-.bottom{
-  display:flex;
-}
-#box3{
- display: flex;
+  height: 75px;
 }
