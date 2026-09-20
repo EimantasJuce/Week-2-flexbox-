@@ -1,9 +1,9 @@
-.container {
-    display: flex;
-    
+.container { 
+  
+  display: flex;   
 }
 .box{
-    width: 150px;
-    height: 150px;
-    border: 2px black    
+  width: 150px;
+  height: 150px; 
+  border: 2px solid black;  
 }
