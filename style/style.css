@@ -1,5 +1,5 @@
 .top {
-    display: flex;
+    display:flex;
     width: 100%;
 }
 #box1 {
@@ -19,5 +19,6 @@
 }
 .column{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    border-width: 20px;
 }
