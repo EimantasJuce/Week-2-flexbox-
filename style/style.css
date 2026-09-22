@@ -16,14 +16,9 @@
     border: 1px solid black;
 }
 .column{
-
+    width: 900px;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
     font-size:large;
-    align-items: stretch;
-} 
-#box3{
- display: flex;
- align-items: stretch;
 }
