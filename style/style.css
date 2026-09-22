@@ -1,3 +1,6 @@
+.box{
+    border: 1px solid black;
+}
 .top {
     display:flex;
     width: 100%;
@@ -13,10 +16,13 @@
     border: 1px solid black;
 }
 .bigbottombox {
-    width: 75%;
+    width: 100%;
+    height:
     border: 1px solid black;
-    display:flex;
-    justify-self: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
 }
 .column{
     display: flex;
