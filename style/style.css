@@ -15,21 +15,15 @@
     height: 75px;
     border: 1px solid black;
 }
-.bigbottombox {
-    width: 100%;
-    height:
-    border: 1px solid black;
-
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-}
 .column{
+
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     font-size:large;
+    align-items: stretch;
 } 
 #box3{
-
+ display: flex;
+ align-items: stretch;
 }
