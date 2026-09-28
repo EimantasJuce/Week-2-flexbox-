@@ -4,12 +4,18 @@
     width: 100%;
 }
 #box1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 25%;
     height: 75px;
     border: 1px solid black;
     border-radius: 3px;
 }
 #box2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 75%;
     height: 75px;
     border: 1px solid black;
