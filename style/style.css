@@ -15,18 +15,16 @@
 }
 .column{
     display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
     justify-content: space-evenly;
     font-size:large;
 }
 #box3{
-    width: 35%;
+    width: 45%;
     border: 1px solid black;
-    display: flex;
-    align-items: flex-end;
 }
 #box4{
-    width: 35%;
+    width: 45%;
     border: 1px solid black;
-    display: flex;
-    align-items: flex-end;
 }
