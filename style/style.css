@@ -15,15 +15,24 @@
 }
 .column{    
     display: flex;
-    height: 100%;
-    align-items: flex-end;
+    justify-content: space-evenly;
     font-size:large;
 }
 #box3{
     width: 45%;
+    border-top: 50px;
     border: 1px solid black;
+    display:flex;
+    min-height: 100vh;;
+    align-items: stretch;
+
 }
 #box4{
     width: 45%;
+    border-top: 50px;
     border: 1px solid black;
+    display:flex;
+    min-height: 100vh;
+    align-items: stretch;
+ 
 }
