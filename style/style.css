@@ -7,21 +7,25 @@
     width: 25%;
     height: 75px;
     border: 1px solid black;
+    border-radius: 3px;
 }
 #box2 {
     width: 75%;
     height: 75px;
     border: 1px solid black;
+    border-radius: 3px;
 }
 .column{ 
     margin-top: 50px;   
     display: flex;
     justify-content: space-evenly;
     font-size:large;
+    
 }
 #box3{
     width: 45%;
     border: 1px solid black;
+    border-radius: 3px;
     display:flex;
     min-height: 100vh;;
     align-items: stretch;
@@ -30,6 +34,7 @@
 #box4{
     width: 45%;
     border: 1px solid black;
+    border-radius: 3px;
     display:flex;
     min-height: 100vh;
     align-items: stretch;
