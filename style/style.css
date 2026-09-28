@@ -13,14 +13,14 @@
     height: 75px;
     border: 1px solid black;
 }
-.column{    
+.column{ 
+    margin-top: 50px;   
     display: flex;
     justify-content: space-evenly;
     font-size:large;
 }
 #box3{
     width: 45%;
-    border-top: 50px;
     border: 1px solid black;
     display:flex;
     min-height: 100vh;;
@@ -29,7 +29,6 @@
 }
 #box4{
     width: 45%;
-    border-top: 50px;
     border: 1px solid black;
     display:flex;
     min-height: 100vh;
